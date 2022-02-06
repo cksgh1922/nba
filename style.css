@@ -1,0 +1,18 @@
+h1{
+   text-align : center;
+   border: 3px solid black;
+}
+body {
+  font-family: Verdana;
+}
+#grid {
+  border:3px solid black;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+ }
+ #Division {
+   border: 3px solid black;
+ }
+ #Area {
+   text-align: center;
+ }
